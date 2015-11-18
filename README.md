@@ -19,3 +19,6 @@ cd rethinkdb-2.2.1
 make
 sudo make install
 ```
+```
+rethinkdb --bind all
+```
