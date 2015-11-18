@@ -17,3 +17,8 @@ bind=0.0.0.0
 ```
 sudo /etc/init.d/rethinkdb start
 ```
+#### rethinkdb with python
+```
+sudo apt-get install python-pip
+sudo pip install rethinkdb
+```
